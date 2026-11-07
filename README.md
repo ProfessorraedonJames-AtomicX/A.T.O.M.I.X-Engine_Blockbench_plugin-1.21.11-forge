@@ -1,6 +1,6 @@
 # A.T.O.M.I.X. Engine (Forge 1.21.11) v0.3.0
 
-Created by AtomicX a.k.a Professor. Raedpn James. A layered, procedural animation engine for Forge. Loads Blockbench/Bedrock models and animations
+Created by AtomicX a.k.a Professor. Raedon James. A layered, procedural animation engine for Forge. Loads Blockbench/Bedrock models and animations
 (the GeckoLib format), so existing animation work can be reused.
 
 ## Highlights
